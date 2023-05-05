@@ -1,7 +1,7 @@
 ### Hi :wave: I'm Nikita Aleshkin :computer: Frontend developer
 ---
   Trying to make high-quality interfaces
-  Fan of [React[https://github.com/facebook/react]], [effector[https://github.com/effector/effector]], [feature-sliced design[https://feature-sliced.design/]], crossplatforms, postcss
+  Fan of [React](https://github.com/facebook/react), [effector](https://github.com/effector/effector), [feature-sliced design](https://feature-sliced.design/), crossplatforms, postcss
 ---
 ### :hammer: Technologies badges :wrench:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
