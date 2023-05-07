@@ -1,4 +1,4 @@
-### Hi :wave: I'm Nikita Aleshkin :computer: Frontend developer
+# Hi :wave: I'm Nikita Aleshkin :computer: Frontend developer
 ---
   - Trying to make high-quality interfaces
   - Fan of [React](https://github.com/facebook/react), [effector](https://github.com/effector/effector), [feature-sliced design](https://feature-sliced.design/), crossplatforms, postcss
@@ -18,5 +18,5 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ---
-# Examples of my code
+### Examples of my code
 - :minidisc: [From diverse projects](https://github.com/Iessenti/code-examples)
