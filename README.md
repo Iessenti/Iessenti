@@ -20,3 +20,4 @@
 ---
 ### Examples of my code
 - :minidisc: [From diverse projects](https://github.com/Iessenti/code-examples)
+- :comet: [Auth form with effector](https://github.com/Iessenti/auth-form-effector)
