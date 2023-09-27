@@ -1,4 +1,4 @@
-# Hi :wave: I'm Nikita Aleshkin :computer: Frontend developer
+# I'm Nikita Aleshkin :computer: Frontend developer
 ---
   - Trying to make high-quality interfaces
   - Fan of [React](https://github.com/facebook/react), [effector](https://github.com/effector/effector), [feature-sliced design](https://feature-sliced.design/), crossplatforms, postcss
